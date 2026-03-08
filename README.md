@@ -11,6 +11,8 @@ Real-time price alert bot for OKX exchange. Monitors all SPOT tokens and sends T
 | 🔴 SPLASH x50% | 50% | 10 minutes |
 
 ## Alert Format
+<img width="320" height="136" alt="image" src="https://github.com/user-attachments/assets/a71bcf0b-afc3-4922-8899-a2d276f2bcb4" />
+
 ## Setup
 
 1. Clone the repository
